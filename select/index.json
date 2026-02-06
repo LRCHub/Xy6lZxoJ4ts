@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Distortion!!",
+  "base_artist": "結束バンド",
+  "createdAt": "2026-02-06T19:09:53.397960Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Distortion to Static (Black Thought Mix)",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/01_Distortion_to_Static_(Black_Thought_Mix)_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Professional Distortion",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/02_Professional_Distortion_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Professional Distortion (Aka Pella)",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/03_Professional_Distortion_(Aka_Pella)_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Professional Distortion (Big Muff)",
+      "artist": "Miss Kittin",
+      "has_synced": false,
+      "path": "select/04_Professional_Distortion_(Big_Muff)_Miss_Kittin.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Do You Enjoy the Distortion?",
+      "artist": "Earthsuit",
+      "has_synced": true,
+      "path": "select/05_Do_You_Enjoy_the_Distortion_Earthsuit.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Mental Distortion",
+      "artist": "Front Line Assembly",
+      "has_synced": false,
+      "path": "select/06_Mental_Distortion_Front_Line_Assembly.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Distortion",
+      "artist": "Overkill",
+      "has_synced": false,
+      "path": "select/07_Distortion_Overkill.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "In Distortion We Trust",
+      "artist": "Crucified Barbara",
+      "has_synced": true,
+      "path": "select/08_In_Distortion_We_Trust_Crucified_Barbara.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Running High Distortion",
+      "artist": "Kingdom Come",
+      "has_synced": false,
+      "path": "select/09_Running_High_Distortion_Kingdom_Come.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Professional Distortion",
+      "artist": "Miss Kittin",
+      "has_synced": true,
+      "path": "select/10_Professional_Distortion_Miss_Kittin.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Distortion!!",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/11_Distortion!!_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Distortion!!",
+      "artist": "結束バンド",
+      "has_synced": true,
+      "path": "select/12_Distortion!!_結束バンド.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Distortion",
+      "artist": "David Guetta",
+      "has_synced": true,
+      "path": "select/13_Distortion_David_Guetta.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Distortion!!",
+      "artist": "結束バンド",
+      "has_synced": false,
+      "path": "select/pl_01_Distortion!!_結束バンド.txt"
+    }
+  ]
+}
